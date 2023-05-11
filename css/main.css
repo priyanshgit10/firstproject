@@ -1,0 +1,45 @@
+
+.site-header{
+    background-color: #6ef3d2;
+    color: #064354;
+    height: 100vh;
+    font-family: monoonspace; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.site-header-text{
+    margin: 10px;
+}
+.profile-pic{
+    border-radius: 44%;
+    height: 200px;
+    width: 165px;
+    align-self: center;
+    box-shadow: #055346 10px 10px 50px;
+}
+.course-link{
+    color: #064354;
+}
+.flag-up{ 
+    background-color: #f1742b;
+    color: #f1742b;   
+    height: 20px;
+    width: 100px;
+}
+.flag-middle{
+    background-color: #ffffff;
+    height: 20px;
+    width: 100px;
+}
+.flag-down{
+    background-color: #118333;
+    color: #118333;
+    height: 20px;
+    width: 100px;
+}
+body{
+    margin: 0;
+    
+}
